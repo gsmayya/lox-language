@@ -7,10 +7,10 @@ Most of the code are from the website and its explanation. But here and there so
 
 ## Structure 
 
-jlox => Java implementation of the interpreter as per the book 
-glox => Go language implementation of the same
+jlox => Java implementation of the interpreter as per the book. <br>
+glox => Go language implementation of the same <br>
 
-Not yet : 
+Not yet : <br>
 Compliation and VM implementations which in the book are in C
 
 
